@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		06D8E1D21DCA642A00F30E5D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D8E1D11DCA642A00F30E5D /* AppDelegate.swift */; };
-		06D8E1D41DCA642A00F30E5D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D8E1D31DCA642A00F30E5D /* ViewController.swift */; };
 		06D8E1D71DCA642A00F30E5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06D8E1D51DCA642A00F30E5D /* Main.storyboard */; };
 		06D8E1DA1DCA642A00F30E5D /* ikid.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 06D8E1D81DCA642A00F30E5D /* ikid.xcdatamodeld */; };
 		06D8E1DC1DCA642A00F30E5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06D8E1DB1DCA642A00F30E5D /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		06D8E1CE1DCA642A00F30E5D /* ikid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ikid.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D8E1D11DCA642A00F30E5D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		06D8E1D31DCA642A00F30E5D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		06D8E1D61DCA642A00F30E5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		06D8E1D91DCA642A00F30E5D /* ikid.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ikid.xcdatamodel; sourceTree = "<group>"; };
 		06D8E1DB1DCA642A00F30E5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				06D8E1D11DCA642A00F30E5D /* AppDelegate.swift */,
-				06D8E1D31DCA642A00F30E5D /* ViewController.swift */,
 				06D8E1D51DCA642A00F30E5D /* Main.storyboard */,
 				06D8E1DB1DCA642A00F30E5D /* Assets.xcassets */,
 				06D8E1DD1DCA642A00F30E5D /* LaunchScreen.storyboard */,
@@ -265,7 +262,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				06D8E1D41DCA642A00F30E5D /* ViewController.swift in Sources */,
 				06D8E1DA1DCA642A00F30E5D /* ikid.xcdatamodeld in Sources */,
 				06D8E1D21DCA642A00F30E5D /* AppDelegate.swift in Sources */,
 			);
