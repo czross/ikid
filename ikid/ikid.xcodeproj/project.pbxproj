@@ -14,6 +14,7 @@
 		06D8E1DF1DCA642A00F30E5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 06D8E1DD1DCA642A00F30E5D /* LaunchScreen.storyboard */; };
 		06D8E1EA1DCA642A00F30E5D /* ikidTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D8E1E91DCA642A00F30E5D /* ikidTests.swift */; };
 		06D8E1F51DCA642A00F30E5D /* ikidUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06D8E1F41DCA642A00F30E5D /* ikidUITests.swift */; };
+		06F505F81DCAACB1005FFC06 /* DadMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F505F71DCAACB1005FFC06 /* DadMainViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		06D8E1F01DCA642A00F30E5D /* ikidUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ikidUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		06D8E1F41DCA642A00F30E5D /* ikidUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ikidUITests.swift; sourceTree = "<group>"; };
 		06D8E1F61DCA642A00F30E5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		06F505F71DCAACB1005FFC06 /* DadMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DadMainViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		06D8E1D01DCA642A00F30E5D /* ikid */ = {
 			isa = PBXGroup;
 			children = (
+				06F505F71DCAACB1005FFC06 /* DadMainViewController.swift */,
 				06D8E1D11DCA642A00F30E5D /* AppDelegate.swift */,
 				06D8E1D51DCA642A00F30E5D /* Main.storyboard */,
 				06D8E1DB1DCA642A00F30E5D /* Assets.xcassets */,
@@ -264,6 +267,7 @@
 			files = (
 				06D8E1DA1DCA642A00F30E5D /* ikid.xcdatamodeld in Sources */,
 				06D8E1D21DCA642A00F30E5D /* AppDelegate.swift in Sources */,
+				06F505F81DCAACB1005FFC06 /* DadMainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -514,6 +518,7 @@
 				06D8E1FB1DCA642A00F30E5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06D8E1FC1DCA642A00F30E5D /* Build configuration list for PBXNativeTarget "ikidTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +527,7 @@
 				06D8E1FE1DCA642A00F30E5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		06D8E1FF1DCA642A00F30E5D /* Build configuration list for PBXNativeTarget "ikidUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +536,7 @@
 				06D8E2011DCA642A00F30E5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
