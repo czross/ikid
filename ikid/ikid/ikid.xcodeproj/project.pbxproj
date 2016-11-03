@@ -17,6 +17,8 @@
 		061FCD451DCAFA20007D68A4 /* ikidUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061FCD441DCAFA20007D68A4 /* ikidUITests.swift */; };
 		061FCD531DCAFADC007D68A4 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061FCD521DCAFADC007D68A4 /* ThirdViewController.swift */; };
 		061FCD551DCAFBE4007D68A4 /* ThirdChildViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061FCD541DCAFBE4007D68A4 /* ThirdChildViewController.swift */; };
+		061FCD571DCAFFDD007D68A4 /* SecondChildViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061FCD561DCAFFDD007D68A4 /* SecondChildViewController.swift */; };
+		061FCD591DCB01B2007D68A4 /* FirstChildViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061FCD581DCB01B2007D68A4 /* FirstChildViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +55,8 @@
 		061FCD461DCAFA20007D68A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		061FCD521DCAFADC007D68A4 /* ThirdViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		061FCD541DCAFBE4007D68A4 /* ThirdChildViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdChildViewController.swift; sourceTree = "<group>"; };
+		061FCD561DCAFFDD007D68A4 /* SecondChildViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondChildViewController.swift; sourceTree = "<group>"; };
+		061FCD581DCB01B2007D68A4 /* FirstChildViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstChildViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +109,9 @@
 			children = (
 				061FCD221DCAFA20007D68A4 /* AppDelegate.swift */,
 				061FCD241DCAFA20007D68A4 /* FirstViewController.swift */,
+				061FCD581DCB01B2007D68A4 /* FirstChildViewController.swift */,
 				061FCD261DCAFA20007D68A4 /* SecondViewController.swift */,
+				061FCD561DCAFFDD007D68A4 /* SecondChildViewController.swift */,
 				061FCD521DCAFADC007D68A4 /* ThirdViewController.swift */,
 				061FCD541DCAFBE4007D68A4 /* ThirdChildViewController.swift */,
 				061FCD281DCAFA20007D68A4 /* Main.storyboard */,
@@ -274,6 +280,8 @@
 				061FCD271DCAFA20007D68A4 /* SecondViewController.swift in Sources */,
 				061FCD231DCAFA20007D68A4 /* AppDelegate.swift in Sources */,
 				061FCD531DCAFADC007D68A4 /* ThirdViewController.swift in Sources */,
+				061FCD571DCAFFDD007D68A4 /* SecondChildViewController.swift in Sources */,
+				061FCD591DCB01B2007D68A4 /* FirstChildViewController.swift in Sources */,
 				061FCD551DCAFBE4007D68A4 /* ThirdChildViewController.swift in Sources */,
 				061FCD251DCAFA20007D68A4 /* FirstViewController.swift in Sources */,
 			);
