@@ -1,5 +1,5 @@
 //
-//  DadJokeMainViewController.swift
+//  ThirdChildViewController.swift
 //  ikid
 //
 //  Created by Brian Ross on 11/2/16.
@@ -8,11 +8,12 @@
 
 import UIKit
 
-class DadJokeMainViewController: UIViewController {
+class ThirdChildViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
+        modalTransitionStyle = .flipHorizontal
         // Do any additional setup after loading the view.
     }
 

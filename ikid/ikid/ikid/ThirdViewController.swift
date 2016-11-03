@@ -1,5 +1,5 @@
 //
-//  MainViewController.swift
+//  ThirdViewController.swift
 //  ikid
 //
 //  Created by Brian Ross on 11/2/16.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class MainViewController: UIViewController {
+class ThirdViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
